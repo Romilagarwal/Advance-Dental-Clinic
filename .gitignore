@@ -1,0 +1,16 @@
+# Next.js specific
+.next
+.next/cache
+.next/server
+.next/static
+
+# Node.js specific
+node_modules
+npm-debug.log
+
+# Editor-specific
+.DS_Store
+*.swp
+
+.swc/
+.*.env
